@@ -1,9 +1,9 @@
 ---
-name: evcc
-version: 0.209.3
-slug: evcc
+name: evcc - test
+version: 0.209.10
+slug: evcc - test
 description: EV Charge Controller!
-url: https://github.com/evcc-io/evcc
+url: https://github.com/dagobert00/evcc.git
 arch: 
   - armhf
   - armv7
